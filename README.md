@@ -20,5 +20,5 @@ To run this game, you'll need to have the following tools installed:
 1. **Clone the repository**:
    Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/subway-surfer-flame.git
-   cd subway-surfer-flame
+   git clone (https://github.com/User719-blip/UU_runner.git)
+   cd UU_runner
