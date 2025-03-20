@@ -1,0 +1,16 @@
+name: my_subway_surfer_game
+description: A simple 2D game using Flame.
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flame: ^1.0.0
+  flutter_bloc: ^8.0.0 # Optional, for state management
+  # Add any other necessary dependencies here
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
