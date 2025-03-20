@@ -1,4 +1,4 @@
-name: my_subway_surfer_game
+name: UU_runner
 description: A simple 2D game using Flame.
 
 environment:
@@ -8,7 +8,7 @@ dependencies:
   flutter:
     sdk: flutter
   flame: ^1.0.0
-  flutter_bloc: ^8.0.0 # Optional, for state management
+  flutter_bloc: ^9.1.0 # Optional, for state management
   # Add any other necessary dependencies here
 
 dev_dependencies:
